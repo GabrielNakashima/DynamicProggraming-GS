@@ -27,3 +27,6 @@ Cada desafio está separado em seções próprias, com subdivisões internas par
 
 ### Prints e informações relevantes
 Em cada parte, são exibidos os prints necessários, além de dados e resultados importantes.
+
+### Análise final
+Ao final do notebook, há uma análise geral dos resultados seguida de uma conclusão sobre o que foi desenvolvido.

@@ -30,3 +30,7 @@ Em cada parte, são exibidos os prints necessários, além de dados e resultados
 
 ### Análise final
 Ao final do notebook, há uma análise geral dos resultados seguida de uma conclusão sobre o que foi desenvolvido.
+
+### LINK DO GITHUB
+
+https://github.com/GabrielNakashima/DynamicProggraming-GS
